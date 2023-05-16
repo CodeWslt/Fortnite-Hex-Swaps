@@ -1,6 +1,6 @@
 # Fortnite Hex Swaps
 
-Repository with a hex replace code for every cosmetic in Fortnite.
+Collection of hex replace codes for every cosmetic in Fortnite.
 
 ## Supported Cosmetics
 
