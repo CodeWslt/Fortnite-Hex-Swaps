@@ -6,6 +6,10 @@ Repository with a hex replace code for every cosmetic in Fortnite.
 
 - Characters
 
+## Supported Options
+
+- Characters ➜ All Defaults
+
 ## Cosmetics Count
 
 - Characters: 1589
